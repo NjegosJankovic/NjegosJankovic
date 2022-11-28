@@ -1,3 +1,17 @@
+#### Contact
+<a target="_blank" href="https://www.linkedin.com/in/njegosjankovic/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a target="_blank" href="mailto:jankovicnjegos93@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://www.researchgate.net/profile/Njegos-Jankovic">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+</a>
+<br />
+<br />
+
 #### Interest
 👋 I am PhD Student in the field of power system stability, focusing mainly on:
 
@@ -11,18 +25,7 @@
 
 🏫 PhD Student at [Comillas Pontificial Universtity, Madrid, Spain](https://www.icai.comillas.edu/en/doctorado/dee-en)
 
-#### Contact
-<a target="_blank" href="https://www.linkedin.com/in/njegosjankovic/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-<a target="_blank" href="mailto:jankovicnjegos93@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<a target="_blank" href="https://www.researchgate.net/profile/Njegos-Jankovic">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
-</a>
 <!---
 NjegosJankovic/NjegosJankovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
