@@ -7,7 +7,10 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://www.researchgate.net/profile/Njegos-Jankovic">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+  <img align="left" alt="RGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+</a>
+<a target="_blank" href="https://scholar.google.com/citations?user=lokM_JMAAAAJ&hl=en">
+  <img align="left" alt="Gscholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
 <br />
 <br />
