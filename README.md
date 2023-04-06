@@ -14,7 +14,8 @@
 
 :pushpin: Madrid, Spain
 
-<hr style="border-top: 1px dashed black;"/>
+<hr style="border-top: 1px dashed gray;"/>
+
 <a target="_blank" href="https://www.linkedin.com/in/njegosjankovic/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
