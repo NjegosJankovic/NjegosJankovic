@@ -6,4 +6,4 @@
 
 🌍 I'm interested in making a power system reliable, so it can provide energy to meet the demands of our modern world.
 
-🤝 If you're interested in these topics too, let's connect! Whether it's to collaborate, ask a question, or just say hi, feel free to reach out:speech_balloon:
+🤝 If you're interested in these topics, let's connect! Whether it's to collaborate, ask a question, or just say hi, feel free to reach out:speech_balloon:
