@@ -8,7 +8,7 @@
 
 🤝 If you're interested in these topics, let's connect! Whether it's to collaborate, ask a question, or just say hi, feel free to reach out:speech_balloon:
 
-<hr style="border-top: 1.5px gray;"/>
+<hr style="border-top: 1px gray;"/>
 
 :desktop_computer: Researcher at [IMDEA Energy](https://energia.imdea.org/en/investigacion-unidades-de-sistemas-electricos) and 🏫 PhD Student at [Comillas Pontificial Universtity](https://www.icai.comillas.edu/en/doctorado/dee-en)
 
